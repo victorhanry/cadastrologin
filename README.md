@@ -1,17 +1,17 @@
-## Running React on Replit
+# Login & Register 💻
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+Projeto que eu e a **Karine** desenvolvemos ❤️
+É uma aplicação de Login e Registro feita em React, criada para praticar e aprimorar nossos conhecimentos em front-end.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## 🔗 Veja o projeto
+Por enquanto o app não foi publicado
+<img width="1321" height="638" alt="{317960A2-CFD5-4FEE-B90F-62F4F8390CCC}" src="https://github.com/user-attachments/assets/a212a3ac-a9de-41e5-aac5-0f4c230663e1" />
 
-Using the two in conjunction is one of the fastest ways to build a web app.
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+## ⚙️ Tecnologias
+- React  
+- JavaScript  
+- CSS
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+## 💬 Sobre
+Criamos esse projeto para treinar conceitos de autenticação e rotas no React, além de aprimorar nosso trabalho em equipe. 🚀
