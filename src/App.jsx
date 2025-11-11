@@ -1,9 +1,10 @@
-import './App.css'
+import react from 'react';
+import LoginRegister from './Components/LoginRegister/LoginRegister';
 
 export default function App() {
   return (
-    <main>
-      React ⚛️ + Vite ⚡ + Replit
-    </main>
-  )
-}
+    <div>
+      <LoginRegister />
+    </div>
+  );
+};
