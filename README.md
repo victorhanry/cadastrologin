@@ -1,6 +1,6 @@
 # Login & Register 💻
 
-Projeto que eu e **Karine** desenvolvemos
+Projeto que eu e **Karine** desenvolvemos,
 É uma aplicação de Login e Registro feita em React, criada para praticar e aprimorar nossos conhecimentos em front-end.
 
 ## 🔗 Veja o projeto
